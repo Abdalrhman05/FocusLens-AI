@@ -1,4 +1,3 @@
-::: {align="center"}
 # 🧠 FOCUSLENS
 
 ### Short-Form Video Habits and Human Attention
