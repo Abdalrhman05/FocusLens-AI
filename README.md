@@ -2,9 +2,7 @@
 
 ### Short-Form Video Habits and Human Attention
 
-`<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=720&lines=Exploring+the+%22Brain+Rot%22+conversation;Short-form+video+%7C+Attention+%7C+Cognition;Data+analysis+with+critical+thinking" alt="Animated typing introduction" />`{=html}
 
-`<br/>`{=html}
 
 ![Python](https://img.shields.io/badge/Python-3.12-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Research](https://img.shields.io/badge/Research-Data_Analysis-8B5CF6?style=for-the-badge)
@@ -175,7 +173,7 @@ habits, attention, and the quality of the data we use to study them.
 
 ------------------------------------------------------------------------
 
-::: {align="center"}
+
 ### ⭐ If you find this project interesting, feel free to explore the repository and share your thoughts.
 
 *FOCUSLENS --- bringing data and digital wellbeing into focus.*
